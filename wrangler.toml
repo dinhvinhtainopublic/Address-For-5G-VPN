@@ -1,0 +1,3 @@
+name = "address-for-5g-vpn"
+main = "worker.js"
+compatibility_date = "2026-11-24"
